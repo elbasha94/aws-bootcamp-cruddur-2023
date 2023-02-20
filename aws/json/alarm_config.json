@@ -5,7 +5,7 @@
     "AlarmActions": [
         "arn:aws:sns:us-east-1:685084830924:billing-alarm"
     ],
-    "EvaluationPeriods": 1,
+    "EvaluationPeriods": 1, 
     "DatapointsToAlarm": 1,
     "Threshold": 1,
     "ComparisonOperator": "GreaterThanOrEqualToThreshold",
