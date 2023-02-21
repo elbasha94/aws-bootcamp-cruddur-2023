@@ -15,7 +15,7 @@ and also Success to Install it and connect to Gitpod with my Admin Account
 
 ### Recreate Logical Architectural Deisgn
 
-![image](https://user-images.githubusercontent.com/72489791/220364410-23711313-683f-4f5c-81b6-8863f68a7039.png)
+![image](https://user-images.githubusercontent.com/72489791/220383162-fa1ea17d-626a-468e-ab8c-ea745de79bc5.png)
 
 https://lucid.app/lucidchart/d1224197-3eef-4e17-b71a-6542f0af950a/edit?viewport_loc=-203%2C-22%2C2886%2C1367%2C0_0&invitationId=inv_694173cd-2ada-4a08-ad18-45d051c06b30
 
