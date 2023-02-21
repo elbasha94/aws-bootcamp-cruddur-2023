@@ -28,7 +28,7 @@ i created a budget for 100$, i have old credit by 300$, and created one for EC2 
 Created SNS Topic and Confirmed with my email
 ![image](https://user-images.githubusercontent.com/72489791/220293181-f4eced4d-788e-438c-b969-2b817024fc55.png)
 
-Then Create Alarnm as below:
+Then Create Alarm as below:
 ![image](https://user-images.githubusercontent.com/72489791/220293343-420e432c-d3d6-4911-9508-e9defbde4bbc.png)
 
 
